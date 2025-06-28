@@ -1,0 +1,61 @@
+/* This is the intended CSS file for my HTML webpages */
+ 
+   h3 {
+       color:brown;
+   }
+   
+   h4 {
+       font-style:italic; font-size:18px;
+   }
+   
+   html {
+       background-color:orange;
+   }
+   
+   table {
+       color:black;
+   }
+   
+   h5 {
+       text-align:center; font-size:15px;
+   }
+   
+   html {
+       text-align:center;
+   }
+   
+   .alignleft {
+       text-align:left; font-size:20px;
+   }
+   
+   #brown {
+       color:brown;
+   }
+   
+   #red {
+       color:red;
+   }
+   
+   #lightgreen{
+       background-color:lightgreen;
+   }
+   
+   #blue{
+       background-color:lightblue;
+   }
+   
+   #white{
+       color:White;
+   }
+   
+   #pink{
+       background-color:lightpink;
+   }
+   
+   #orange{
+       color:orangered;
+   }
+   
+   #fontblue{
+       color:blue;
+   }
