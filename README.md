@@ -1,3 +1,3 @@
-# home
+# ChocolateRecipes
 
-<a href=index.html> Homepage of my Website </a>
+<a href=index.html> Find the homepage of my website here! </a>
